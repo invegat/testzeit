@@ -1,7 +1,7 @@
 {
   "version": 2.1,
   "public": true,
-  "name": "python-deployment",
+  "name": "python-deployment-mark",
   "builds": [
     { "src": "*.py", "use": "@now/python" }
   ]
